@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Prasadlabhe, a Full Stack Java Developer
 - 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java Development Projects
 - 📫 How to reach me labhe.prasad2@gmail.com
 
